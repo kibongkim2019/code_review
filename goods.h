@@ -1,5 +1,5 @@
-#ifndef GOODS_H_
-#define GOODS_H_
+#ifndef CODEREVIEW_PRACTICE_GOODS_H_
+#define CODEREVIEW_PRACTICE_GOODS_H_
 
 // Goods class for representing goods information with index and price
 // Example:
