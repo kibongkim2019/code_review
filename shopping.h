@@ -1,5 +1,5 @@
-#ifndef SHOPPING_H_
-#define SHOPPING_H_
+#ifndef CODEREVIEW_PRACTICE_SHOPPING_H_
+#define CODEREVIEW_PRACTICE_SHOPPING_H_
 
 #include <vector>
 #include "./goods.h"
