@@ -14,4 +14,4 @@ int Goods::GetIndex() {
 // Return price informaiton
 int Goods::GetPrice() {
   return goods_price_;
-}
+} 
